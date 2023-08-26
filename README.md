@@ -5,6 +5,7 @@ Steps to run the project -
 1) Download the project as .zip or clone the repository in your pc
 2) Make sure all the files are inside same folder
 3) Run index.html file
+4) Voila !! Enjoy your Task Manager app "Dobby"
 
 -----------------------------------------------------------------------------
 
