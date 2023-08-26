@@ -1,0 +1,48 @@
+.about{
+	margin:5rem;
+	text-align:center;
+}
+
+body.dark-mode{
+    color:white ;
+}
+nav.dark-mode{
+	background-color: red;
+	
+}
+
+h1{
+	margin-bottom:5rem;
+
+	text-decoration: underline;
+	font-size:2.5rem;
+	
+}
+
+p{
+	padding:1rem;
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:1.2rem;
+	
+}
+.footer
+{
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 60px; 
+   background: LightSteelBlue;
+	
+}
+
+@media (max-width: 660px){
+	p{
+		font-size: 1.1rem;
+	}
+	.footer{
+		padding-right:5rem;
+	}
+	
+}
